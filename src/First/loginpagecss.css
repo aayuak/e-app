@@ -1,0 +1,49 @@
+.first
+{
+    width: 400px; 
+    
+    /* display: inline-block; */
+    
+}
+.comm{
+   width: 100%;
+   
+}
+.okay
+{
+    width:300px;
+}
+
+.hi{
+    color: crimson;
+   text-align-last: center
+
+}
+.hehe{
+color: blue;
+    margin-left: 30px;
+}
+.aaa{
+    margin-left: 30%;
+}
+.haha{
+    color: blue;
+   
+    text-align: right;
+}
+.hihi{
+    text-align: center;
+    color:green;
+ 
+}
+.yes{
+    margin-top: 0%;
+    
+    
+}
+.yoo{
+    color: blue;
+}
+.marg{
+    margin-left: 1100px;
+}
